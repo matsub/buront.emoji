@@ -1,0 +1,82 @@
+title: buront
+emojis:
+  - name: buront_main_tate # メイン盾きた
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/main_tate.jpg
+  - name: buront_katsuru # これで勝つる
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/katsuru.jpg
+  - name: buront_highslash # ハイスラ
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/highslash.jpg
+  - name: buront_bokoru # でボコるわ..
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/bokoru.jpg
+  - name: buront_suki # スキ
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/suki.jpg
+  - name: buront_densetsu # 不良界で伝説
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/densetsu.jpg
+  - name: buront_kenkyo # 謙虚
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/kenkyo.jpg
+  - name: buront_uchoten # 怒りが有頂天
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/uchoten.jpg
+  - name: buront_golden # 黄金の鉄の塊
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/golden.jpg
+  - name: buront_honeni # 骨になる
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/honeni.jpg
+  - name: buront_yamero # やめろ馬鹿
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/yamero.jpg
+  - name: buront_choto # ちょとｓＹレならん
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/choto.jpg
+  - name: buront_saikyou # 最強攻撃
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/saikyou.jpg
+  - name: buront_sugoi # すごいですね
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/sugoi.jpg
+  - name: buront_sorehodo # それほどでもない
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/sorehodo.jpg
+  - name: buront_migoto # 見事な仕事だ
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/migoto.jpg
+  - name: buront_akogare # 憧れちゃうなー
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/akogare.jpg
+  - name: buront_mareni # 稀によくある
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/mareni.jpg
+  - name: buront_real # リアル話
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/real.jpg
+  - name: buront_moteru # もてる
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/moteru.jpg
+  - name: buront_kanojo # 彼女ができる
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/kanojo.jpg
+  - name: buront_ninka # 認可される
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/ninka.jpg
+  - name: buront_itai # 痛い目を見たいのか
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/itai.jpg
+  - name: buront_gift # 神の贈物
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/gift.jpg
+  - name: buront_hell # 地獄の宴
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/hell.jpg
+  - name: buront_iii # 恐ろしいい
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/iii.jpg
+  - name: buront_hai # hai!!
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/hai.jpg
+  - name: buront_yutaka # 心が豊か
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/yutaka.jpg
+  - name: buront_seikaku # 性格も良い
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/seikaku.jpg
+  - name: buront_yaru # やるます
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/yaru.jpg
+  - name: buront_sasuga # さすがきたない
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/sasuga.jpg
+  - name: buront_dark # ダークパワー
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/dark.jpg
+  - name: buront_mieru # に見える
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/mieru.jpg
+  - name: buront_batsugun # ばつ牛ﾝ
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/batsugun.jpg
+  - name: buront_mach # ストレスでマッハ
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/mach.jpg
+  - name: buront_kerai # 家来になる
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/kerai.jpg
+  - name: buront_nigajiru # 苦汗の選択
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/nigajiru.jpg
+  - name: buront_kanashimi # 深い悲しみ
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/kanashimi.jpg
+  - name: buront_akiraka # 確定的に明らか
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/akiraka.jpg
+  - name: buront_keiken # 経験が生きたな
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/keiken.jpg
