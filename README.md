@@ -26,5 +26,5 @@ $ emojipacks
 Slack subdomain: <your-slack-name>
 Email address login: your-address@example.com
 Password: *********
-Path or URL of Emoji yaml file: https://raw.githubusercontent.com/matsub/buront.emoji/master/buront.yaml
+Path or URL of Emoji yaml file: https://raw.githubusercontent.com/matsub/buront.moji/master/buront.yaml
 ```
