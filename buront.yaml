@@ -28,10 +28,12 @@ emojis:
     src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/migoto.png
   - name: buront_moteru # もてる
     src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/moteru.png
-  - name: buront_nigajiru # 苦汗の選択
-    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/nigajiru.png
+  - name: buront_nigaase # 苦汗の選択
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/nigaase.png
   - name: buront_ninka # 認可される
     src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/ninka.png
+  - name: buront_saikyou # 最強に見える
+    src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/saikyou.png
   - name: buront_seikaku # 性格も良い
     src: https://raw.githubusercontent.com/matsub/buront.moji/master/emojis/seikaku.png
   - name: buront_sorehodo # それほどでもない
